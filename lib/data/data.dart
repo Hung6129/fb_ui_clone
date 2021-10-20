@@ -1,9 +1,9 @@
 import 'package:flutter_facebook_responsive_ui/models/models.dart';
 
 final User currentUser = User(
-  name: 'Hưng Nguyễn',
+  name: 'Marcus Ng',
   imageUrl:
-      'https://scontent.fsgn13-2.fna.fbcdn.net/v/t39.30808-6/218756904_1473940139671241_8487595422424529720_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=LmOm8dHXZ0AAX_s5dtc&_nc_ht=scontent.fsgn13-2.fna&oh=04d53937da63e56243cf81a7749aa122&oe=61751F97',
+      'https://images.unsplash.com/photo-1578133671540-edad0b3d689e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
 );
 
 final List<User> onlineUsers = [
