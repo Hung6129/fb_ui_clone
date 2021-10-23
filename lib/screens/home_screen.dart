@@ -15,7 +15,6 @@ class HomeScreen extends StatelessWidget {
             title: Text(
               'facebook',
               style: const TextStyle(
-                fontFamily: 'Montserrat',
                 color: Palette.facebookBlue,
                 letterSpacing: -1.2,
                 fontWeight: FontWeight.bold,
